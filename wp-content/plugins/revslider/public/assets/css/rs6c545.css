@@ -343,7 +343,11 @@ rs-alyer *:not(.rs-wtbindex),
 
 /* CAROUSEL FUNCTIONS */
 rs-carousel-wrap {
+<<<<<<< HEAD
 	cursor:url(openhand.html), move;
+=======
+	cursor:url(openhand.cur), move;
+>>>>>>> baee170 (Update website files)
 }
 rs-carousel-wrap.dragged {
 	cursor:url(closedhand.html), move;
